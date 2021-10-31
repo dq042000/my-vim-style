@@ -17,6 +17,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'StanAngeloff/php.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree'
+Plug 'lvht/phpcd.vim', { 'for': 'php', 'do': 'composer install' }
 call plug#end()
 
 
