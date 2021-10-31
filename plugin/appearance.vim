@@ -1,5 +1,6 @@
 set number
 set clipboard=unnamed
+set noshowmode
 
 "-----------------------
 " 搜尋設定
